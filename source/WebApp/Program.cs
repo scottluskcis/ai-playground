@@ -1,4 +1,4 @@
-using AIWebApp;
+using WebApp;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,4 +1,4 @@
-namespace AIWebApp
+namespace WebApp
 {
     public class WeatherForecast
     {
